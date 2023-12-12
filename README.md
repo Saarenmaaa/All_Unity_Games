@@ -6,3 +6,4 @@ Games ordered by oldest to newest.
 2. 2D Space shooter(in progress)
 3. 3D Emergency-driver school group project
 4. 2D Jetpack Joyride copy (in progress)
+5. 3D Terrain + Navmesh showcase
