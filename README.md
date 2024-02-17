@@ -1,9 +1,9 @@
 # Unity Games
 
-(1-4). Windows game builds in releases.
+(1-4). Windows game builds in github releases.
 
 1. 3D Terrain + Navmesh showcase
-2. 3D Emergency-driver school group project
+2. 3D Emergency-driver city project
 3. 2D Jetpack Shooter game
 4. 2D Platform Jumping game for GameJam
 
