@@ -8,7 +8,7 @@
 4. 2D Platform Jumping game for GameJam
 
 
-# 1. Newest Terrain skill showcase.
+# 1. Newest Terrain.
 ![2](https://github.com/Saarenmaaa/Unity/assets/132883449/9a83621f-927b-4611-a213-72b20ef125e4)
 # 2. Emergency Driver Game
 ![EmergencyDriverkuva](https://github.com/Saarenmaaa/Unity/assets/132883449/f3855db3-dd49-448a-a4fc-6a73e5ec7b6c)
