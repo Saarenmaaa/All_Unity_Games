@@ -1,6 +1,6 @@
 # Unity Games
 
-(1-4). Windows game builds in github releases.
+(1-4). Windows game builds in github releases
 
 1. 3D Surviver
 2. 3D Ambulance Game traffic project
