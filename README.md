@@ -18,7 +18,7 @@
 # 5. SpaceShooter (On development)
 ![05d7e87b71cfac5ee9a84faa7087a39d](https://github.com/user-attachments/assets/96e43658-2941-46fb-837b-fe981acc0710)
 
-# 6. 3D Hunting game on development
+# 6. 3D Hunting game (On development)
 ![a979bbbee208aa3ab5ca15327afbeb61](https://github.com/user-attachments/assets/3b368381-edcd-45db-96f6-2ead06bd21de)
 
 
