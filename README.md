@@ -1,4 +1,4 @@
-# Unity Games.
+# Unity Games
 
 (1-6) Dowloadable windows game builds in github releases
 
