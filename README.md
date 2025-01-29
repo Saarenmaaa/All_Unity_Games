@@ -2,10 +2,10 @@
 
 (1-4) Dowloadable windows game builds in github releases.
 
-1. 3D Surviver
-2. 3D Ambulance Game traffic project
-3. 2D Jetpack Shooter game
-4. 2D Platform Jumping game for GameJam
+1. 3D Terrain Showcase
+2. 3D Ambulance Game
+3. 2D Jetpack Shooter
+4. 2D Platform Jumper
 5. 2D Space Shooter
 
 # 1.
